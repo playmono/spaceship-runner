@@ -1,4 +1,6 @@
-# Videogame made in 2015 for Mallorca Game Jam 2015
+# Spaceship Runner
+
+Videogame made in 2015 with [PhaserJs](https://phaser.io/) for Mallorca Game Jam 2015
 
 ### Play
 
